@@ -1,0 +1,208 @@
+header {
+   font-weight: bold;
+   font-size: 25px;
+}
+
+a:visited {
+    color: blue;
+}
+
+body {
+    border: solid 5px;
+    border-color: lightblue;
+}
+
+h2 {
+    text-align: center;
+    padding-right: 50px;
+}
+
+ul  {
+    text-align: center;
+}  
+
+p {
+    text-align: center;
+    word-wrap: break-word; /* Break long words */
+    white-space: pre-wrap;
+}
+
+div {
+    margin: 20px;
+    margin-top: -30px;
+    padding: 20px;
+    border: 10px;
+    border-bottom: 5px solid black; /* Adds a solid black line */
+
+}
+
+.summary {
+    margin-top: 25px;
+}
+.Navigation {
+    list-style-type: none; /* Remove default list styles */
+    padding: 0;
+    margin: 0;
+}
+
+.Navigation li {
+    display: inline;
+    font-size: 20px;
+
+}
+
+.Navigation ul li a {
+    display: inline-block; /* Ensure links behave as blocks */
+    padding: 10px; /* Add padding for spacing between links */
+    text-decoration: none; /* Remove default underline */
+    color: black; /* Set link color */
+}
+
+.Education {
+    list-style-type: none;
+}
+
+.NJIT {
+    list-style-position: inside;
+    position: absolute;
+    padding-left: 100px;
+    left: 250px;
+}
+
+.Middlesex {
+    list-style-position: inside;
+    padding-right: 480px;
+}
+
+.bullet2 {
+    list-style-position: inside;
+    padding-left: 0; 
+    margin-bottom: 0;
+    list-style-type: square;
+}
+
+.bullet2 li {
+    padding-left: 420px;
+    font-weight: bold;
+    position: absolute;
+}
+
+.jobs {
+    list-style-type: none;
+    padding-right: 100px;
+}
+
+.bohoBullet {
+    list-style-position: inside;
+    padding-left: 0; 
+    margin-bottom: 0;
+}
+
+.bohoBullet li {
+    position: absolute;
+    padding-left: 320px; /* Adjust left padding to align bullets */
+    left: -20;
+}
+
+.compTech {
+    list-style-position: inside;
+    padding-left: 0; 
+    margin-bottom: 0;
+}
+
+.compTech li {
+    position: absolute;
+    padding-left: 320px; /* Adjust left padding to align bullets */
+    left: -20;
+}
+
+.freelance {
+    list-style-position: inside;
+    padding-left: 0; 
+    margin-bottom: 0;
+}
+
+ .freelance li {
+    position: absolute;
+    padding-left: 320px;
+    left:-20;
+}
+
+.jobs3 {
+    list-style-type: none;
+    padding-right: 240px;
+}
+
+.table1 {
+    border-collapse: separate; /* Separate border model */
+    border-spacing: 20px; /* Add space between table cells */
+    border: 5px;
+    border-style: solid;
+    border-color: black;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: auto;
+    
+}
+
+td {
+    padding-right: 20px;
+    padding-left: 30px;
+    font-weight: bold;
+}
+
+.degree {
+    font-family: arial;
+}
+
+#b2 {
+    padding-top: 50px;
+} 
+
+img {
+width: 150px;
+height: 150px;
+}
+
+.achievements {
+    border-collapse: collapse;
+    margin:  auto;
+    padding: auto;
+}
+
+.td1 .tr1 {
+    border-collapse: collapse;
+    padding: 8px;
+    border-collapse: separate; /* Separate border model */
+
+}
+
+.p1 tr {
+    display: inline; /* Keep the paragraph inline */
+    margin: 0; /* Remove any default margins */
+    padding-right: 10px;
+}
+
+.tr1 tr {
+    padding-bottom: 100px;
+}
+
+.tdhead {
+    font-size: 35px;
+}
+
+.hpg2 {
+    font-size: 50px;
+    padding-left: 10px;
+    margin-bottom: 20px;
+}
+
+.pg2 {
+    font-size: large;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+.Myphoto {
+    height: 100px;
+}
