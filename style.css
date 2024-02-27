@@ -17,6 +17,20 @@ h2 {
     padding-right: 50px;
 }
 
+h3 {
+    font-size: small;
+    display: inline-block;
+    margin-right: 50px;
+
+}
+
+.hpg2 {
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center
+}
+
+
 ul  {
     text-align: center;
 }  
